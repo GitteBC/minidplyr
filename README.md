@@ -1,3 +1,2 @@
-<!-- badges: start -->
-[![Codecov test coverage](https://codecov.io/gh/GitteBC/minidplyr/graph/badge.svg)](https://app.codecov.io/gh/GitteBC/minidplyr)
+[![R-CMD-check](https://github.com/GitteBC/minidplyr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/GitteBC/minidplyr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
