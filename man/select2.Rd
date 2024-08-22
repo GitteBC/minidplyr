@@ -20,3 +20,8 @@ This is the description
 \details{
 This is the details
 }
+\examples{
+#select2(iris, c("Sepal.Length", "Species))
+#select2(iris, 1:2)
+#select2(iris, c(TRUE, TRUE, FALSE, FALSE, FALSE))
+}
